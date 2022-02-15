@@ -5,6 +5,7 @@
 4. Git使用 [[pdf]](IntroductionToGit.pdf) [[video]](https://disk.pku.edu.cn:443/link/5DA477443619789C30ABC4D933BB5CB2)
 5. CUDA编程 [[pdf]](IntroductionToCuda.pdf) [[video]](https://disk.pku.edu.cn:443/link/6F8E5EAE4DFC38001A999F409D50247F)
 6. Docker使用 [[pdf]](IntroductionToDocker.pdf)
+7. 高性能存储 [[pdf]](IntroductionToStorage.pdf) [[video]](https://disk.pku.edu.cn:443/link/AE5898D0E3864EA4C6F6204C8AE0176B)
 
 
 如存在侵权，请提[issue](https://github.com/pkusc/pkusc.github.io/issues)，我们将及时删除。
